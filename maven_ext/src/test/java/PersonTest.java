@@ -37,7 +37,8 @@ public class PersonTest {
                 {0, false},
                 {16, true},
                 {20, false},
-                {17, true},
+                {19, true},
+                {13, true},
                 {-10, false},
         };
     }
